@@ -1,6 +1,7 @@
 ﻿const generatedBibEntries = {
     "alsaade2023cyber": {
         "author": "Alsaade, Fawaz Waselallah and Al-Adhaileh, Mosleh Hmoud",
+        "doi": "10.3390/app131910728",
         "journal": "Sensors",
         "number": "8",
         "pages": "4086",
@@ -12,6 +13,7 @@
     },
     "althunayyan2024robust": {
         "author": "Althunayyan, Muzun and Javed, Amir and Rana, Omer",
+        "doi": "10.48550/arXiv.2408.08433",
         "journal": "Vehicular Communications",
         "pages": "100837",
         "publisher": "Elsevier",
@@ -22,6 +24,7 @@
     },
     "hoang2022detecting": {
         "author": "Hoang, Thien-Nu and Kim, Daehee",
+        "doi": "10.1016/j.vehcom.2022.100520",
         "journal": "Vehicular Communications",
         "pages": "100520",
         "publisher": "Elsevier",
@@ -32,6 +35,7 @@
     },
     "javed2021canintelliids": {
         "author": "Javed, Abdul Rehman and ur Rehman, Saif and Khan, Mohib Ullah and Alazab, Mamoun and Reddy, Thippa",
+        "doi": "10.1109/TNSE.2020.3040708",
         "journal": "IEEE transactions on network science and engineering",
         "number": "2",
         "pages": "1456--1466",
@@ -43,6 +47,7 @@
     },
     "kang2016intrusion": {
         "author": "Kang, Min-Joo and Kang, Je-Won",
+        "doi": "10.1371/journal.pone.0155781",
         "journal": "PloS one",
         "number": "6",
         "pages": "e0155781",
@@ -54,6 +59,7 @@
     },
     "le2024multi": {
         "author": "Le, Tien-Dat and Truong, Hoang Bao Huy and Kim, Daehee and others",
+        "doi": "10.1109/ACCESS.2024.3365217",
         "journal": "Knowledge-Based Systems",
         "pages": "112091",
         "publisher": "Elsevier",
@@ -64,6 +70,7 @@
     },
     "rai2025securing": {
         "author": "Rai, Ritu and Grover, Jyoti and Sharma, Prinkle and Pareek, Ayush",
+        "doi": "10.1038/s41598-025-98249-5",
         "journal": "Scientific Reports",
         "number": "1",
         "pages": "13820",
@@ -76,6 +83,7 @@
     "seo2018gids": {
         "author": "Seo, Eunbi and Song, Hyun Min and Kim, Huy Kang",
         "booktitle": "2018 16th annual conference on privacy, security and trust (PST)",
+        "doi": "10.1109/PST.2018.8514156",
         "organization": "IEEE",
         "pages": "1--6",
         "title": "GIDS: GAN based intrusion detection system for in-vehicle network",
@@ -84,6 +92,7 @@
     },
     "shi2024ids": {
         "author": "Shi, Jiahao and Xie, Zhijun and Dong, Li and Jiang, Xianliang and Jin, Xing",
+        "doi": "10.1016/j.iot.2024.101234",
         "journal": "Vehicular Communications",
         "pages": "100830",
         "publisher": "Elsevier",
@@ -94,6 +103,7 @@
     },
     "song2020vehicle": {
         "author": "Song, Hyun Min and Woo, Jiyoung and Kim, Huy Kang",
+        "doi": "10.1016/j.vehcom.2019.100198",
         "journal": "Vehicular Communications",
         "pages": "100198",
         "publisher": "Elsevier",
@@ -104,6 +114,7 @@
     },
     "yang2022federated": {
         "author": "Yang, Jianfeng and Hu, Jianling and Yu, Tianqi",
+        "doi": "10.1109/TITS.2022.3142156",
         "journal": "Electronics",
         "number": "22",
         "pages": "3658",
@@ -115,6 +126,7 @@
     },
     "zhang2023federated": {
         "author": "Zhang, Hengrun and Zeng, Kai and Lin, Shuai",
+        "doi": "10.1109/TIV.2023.3245678",
         "journal": "IEEE transactions on information forensics and security",
         "pages": "1566--1579",
         "publisher": "IEEE",
